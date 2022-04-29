@@ -58,5 +58,5 @@ const pokemons = [
   {
     id:15,
     img: "https://www.serebii.net/pokemongo/pokemon/009.png"
-  },
+  },  
 ];
